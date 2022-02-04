@@ -1,0 +1,8 @@
+﻿  CocktailShakerSort.cpp
+C:\Users\ched4\source\repos\Assignment 2\Assignment 2\CocktailShakerSort.cpp(13,36): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\ched4\source\repos\Assignment 2\Assignment 2\CocktailShakerSort.cpp(19,34): warning C4018: '>=': signed/unsigned mismatch
+  IntVector.cpp
+  IntVectorIterator.cpp
+  Main.cpp
+  Generating Code...
+  Assignment 2.vcxproj -> C:\Users\ched4\source\repos\Assignment 2\Debug\Assignment 2.exe
